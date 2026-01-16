@@ -36,6 +36,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Overall, the app was not to hard to build as the instructions were very clear. The most challenging part was figuring out how the CSS should look like, as it has been a while since I worked in CSS.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
